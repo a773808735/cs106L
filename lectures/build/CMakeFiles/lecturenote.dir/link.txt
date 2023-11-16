@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\lecturenote.dir/objects.a
-C:\Users\lwx\mingw64\bin\ar.exe qc CMakeFiles\lecturenote.dir/objects.a @CMakeFiles\lecturenote.dir\objects1.rsp
-C:\Users\lwx\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\lecturenote.dir/objects.a -Wl,--no-whole-archive -o lecturenote.exe -Wl,--out-implib,liblecturenote.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lecturenote.dir\linkLibs.rsp
